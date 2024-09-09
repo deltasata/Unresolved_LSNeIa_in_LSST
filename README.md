@@ -1,6 +1,6 @@
 # Detecting Unresolved Lensed SNe Ia in LSST Using Blended Light Curves
 
-This repository contains code (`ipython notebooks`) designed to calculate the number of resolved and unresolved lensed Type Ia supernovae (SNe Ia) expected in the LSST (Legacy Survey of Space and Time) by the *Vera Rubin Observatory*, as well as the observed blended light curves for the unresolved systems. For a detailed explanation, please refer to [arXiv:2404.15389](https://arxiv.org/abs/2404.15389).
+This repository contains code (`ipython notebooks`) designed to calculate the number of resolved and unresolved lensed Type Ia supernovae (SNe Ia) expected in the Legacy Survey of Space and Time (LSST) by the *Vera Rubin Observatory*, as well as the observed blended light curves for the unresolved systems. For a detailed explanation, please refer to [arXiv:2404.15389](https://arxiv.org/abs/2404.15389).
 
 ## Data Requirements
 
