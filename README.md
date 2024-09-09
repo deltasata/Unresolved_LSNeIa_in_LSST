@@ -19,3 +19,5 @@ This directory contains notebooks to simulate multi-band LSST-like blended light
 - **A) `sata_build_unresolved.ipynb`:** Generates light curves for unresolved doubles, quads, and unlensed SNe Ia based on `baseline v3.2 observing strategy`. These light curves correspond to the controlled sets A, B, and C from [arXiv:2404.15389](https://arxiv.org/abs/2404.15389). You can adjust the number of doubles, quads, and unlensed systems for training purposes.
   
 - **B) `LSST_set_sata_build_unresolved_just_over_pop.ipynb`:** Creates mock light curves for unresolved LSST samples, referred to as "set LSST" in [arXiv:2404.15389](https://arxiv.org/abs/2404.15389).
+
+- **Required Data:** Download `build_blended_lc.zip` from [Zenodo](https://zenodo.org/records/13644602) and place it's contents in the same directory as the notebook.
