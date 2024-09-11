@@ -24,6 +24,7 @@ This directory contains notebooks to simulate multi-band LSST-like blended light
 
 
 ## References
+Please cite the followings if you use these codes.
 - [Bag, S. et al 2024, arxiv:2404.15389](https://ui.adsabs.harvard.edu/abs/2024arXiv240415389B/abstract)
 - [Oguri, M. & Marshall, P. J. 2010, MNRAS, 405, 2579](https://ui.adsabs.harvard.edu/abs/2010MNRAS.405.2579O/abstract)
 - [Oguri, M. 2018, MNRAS, 480, 3842](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.3842O/abstract)
